@@ -47,9 +47,3 @@ input {
   display: block;
   margin-bottom: 0.5rem;
 }
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
