@@ -16,7 +16,7 @@ export default function UserCard({ id, name, age, image }: Props) {
         src={image ?? "/mememan.webp"}
         alt={`${name}'s profile`}
         width={150}
-        height={120}
+        height={150}
         className={styles.cardImage}
       />
       <div className={styles.cardContent}>
